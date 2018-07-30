@@ -1,0 +1,26 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: darkkhaki;
+}
+
+.name {
+    margin-top: 0;
+    float: left;
+}
+
+nav li {
+    display: block;
+    padding: 0;
+    margin-left: 20px;
+    float: right;
+    padding-top: 20px;
+}
+
+.container {
+    margin-top: 0px;
+}
+
+.main-content {
+    float: left;
+}
